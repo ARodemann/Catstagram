@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="my_list">
+        <item>Adobe Test</item>
+        <item>Adobe Test2</item>
+        <item>Adobe Test3</item>
+        <item>Adobe Test4</item>
+        <item>Adobe Test5</item>
+        <item>Adobe Test6</item>
+        <item>Adobe Test7</item>
+        <item>Adobe Test8</item>
+        <item>Adobe Test9</item>
+        <item>Adobe Test10</item>
+    </string-array>
+</resources>

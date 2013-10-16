@@ -1,8 +1,11 @@
+package com.alex.catstagram;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;
+
+import com.alex.catstagram.R;
 
 public class SingleListItem extends Activity{
     @Override

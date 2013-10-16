@@ -1,0 +1,16 @@
+ettings/
+build.properties
+build.xml
+default.properties
+local.properties
+bin/
+gen/
+res/values/dropbox.xml
+proguard.cfg
+
+
+# IntelliJ Idea/Android Studio files
+*.iml
+*.ipr
+*.iws
+.idea/
